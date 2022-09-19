@@ -1,4 +1,5 @@
 # to make it easier to read multiple excel files, every file name excel must be in order such as data1, data2, data3 etc.  Because we use loop algorithm
+# example my directory folder is D:\\Naila, it folder have file such as laporan_iklim_harian (0), laporan_iklim_harian (1), ....  
 import pandas as pd
 path = 'D:\\Naila\\laporan_iklim_harian (' # file path
 isi = [] # empyt list
